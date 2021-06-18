@@ -12,7 +12,7 @@ namespace AzureDevopsTestProject.Controllers
     {
         public HomeController()
         {
-            //test change from TFVS v5
+            //test change from TFVS v6
             ViewBag.Title = System.Configuration.ConfigurationManager.AppSettings["PageTitle"];
         }
 
