@@ -1,0 +1,17 @@
+I:\TFS_Project\AzureDevopsTestProject\AzureDevopsTestProject_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+I:\TFS_Project\AzureDevopsTestProject\AzureDevopsTestProject_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+I:\TFS_Project\AzureDevopsTestProject\AzureDevopsTestProject_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+I:\TFS_Project\AzureDevopsTestProject\AzureDevopsTestProject_Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+I:\TFS_Project\AzureDevopsTestProject\AzureDevopsTestProject_Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+I:\TFS_Project\AzureDevopsTestProject\AzureDevopsTestProject_Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+I:\TFS_Project\AzureDevopsTestProject\AzureDevopsTestProject_Test\bin\Debug\AzureDevopsTestProject_Test.dll
+I:\TFS_Project\AzureDevopsTestProject\AzureDevopsTestProject_Test\bin\Debug\AzureDevopsTestProject_Test.pdb
+I:\TFS_Project\AzureDevopsTestProject\AzureDevopsTestProject_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+I:\TFS_Project\AzureDevopsTestProject\AzureDevopsTestProject_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+I:\TFS_Project\AzureDevopsTestProject\AzureDevopsTestProject_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+I:\TFS_Project\AzureDevopsTestProject\AzureDevopsTestProject_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+I:\TFS_Project\AzureDevopsTestProject\AzureDevopsTestProject_Test\obj\Debug\AzureDevopsTestProject_Test.csprojAssemblyReference.cache
+I:\TFS_Project\AzureDevopsTestProject\AzureDevopsTestProject_Test\obj\Debug\AzureDevopsTestProject_Test.csproj.CoreCompileInputs.cache
+I:\TFS_Project\AzureDevopsTestProject\AzureDevopsTestProject_Test\obj\Debug\AzureDevopsTestProject_Test.csproj.CopyComplete
+I:\TFS_Project\AzureDevopsTestProject\AzureDevopsTestProject_Test\obj\Debug\AzureDevopsTestProject_Test.dll
+I:\TFS_Project\AzureDevopsTestProject\AzureDevopsTestProject_Test\obj\Debug\AzureDevopsTestProject_Test.pdb
